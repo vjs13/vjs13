@@ -35,9 +35,39 @@
 
 ### 🛠️ Skills
 
-- **Programming Languages**: Python, R, C++
-- **Libraries & Tools**: NumPy, Pandas, Matplotlib, Scikit Learn, Seaborn, AWS, Snowflake, BigQuery, Looker, Git/GitHub, PowerBI, Excel
-- **Concepts**: Statistics, Artificial Intelligence, Machine Learning
+#### Programming Languages:
+- **Python**
+- **R**
+- **C++**
+
+#### Query Languages:
+- **SQL** (MySQL, T-SQL, SQLite)
+
+#### Proficient Libraries:
+- **NumPy**
+- **Pandas**
+- **Matplotlib**
+- **Scikit Learn**
+- **Seaborn**
+- **Pythena**
+- **Boto3**
+
+#### Tools:
+- **AWS** (Athena, SageMaker, S3, QuickSight)
+- **Snowflake**
+- **BigQuery**
+- **Looker**
+- **Google Sheets**
+- **MS Office**
+- **GCP**
+- **Git/GitHub**
+- **PowerBI**
+- **Excel**
+
+#### Concepts:
+- **Statistics**
+- **Artificial Intelligence**
+- **Machine Learning**
 
 ---
 
@@ -48,7 +78,6 @@
 - 🎤 Speaker and judge at 50+ tech events, including Google DevFest and Google Cloud Community Days.
 
 ---
-
 
 ### 📫 How to reach me
 
