@@ -16,10 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- **Product Data Scientist** at [Cadient](https://cadienttalent.com)
-- 🌟 **Tech Speaker** and **Mentor**
-- 🎓 **MCA in Data Science** (In progress, Expected: June 2026) from **IGNOU**
-- 🎓 **B.Sc. in Computer Science** (2021) from **University of Delhi**
+- **Product Data Scientist** at [Cadient](https://cadienttalent.com) • 🌟 **Tech Speaker** and **Mentor** • 🎓 **MCA in Data Science** (In progress, Expected: June 2026) from **IGNOU** • 🎓 **B.Sc. in Computer Science** (2021) from **University of Delhi**
 
 ---
 
@@ -35,39 +32,11 @@
 
 ### 🛠️ Skills
 
-#### Programming Languages:
-- **Python**
-- **R**
-- **C++**
-
-#### Query Languages:
-- **SQL** (MySQL, T-SQL, SQLite)
-
-#### Proficient Libraries:
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Scikit Learn**
-- **Seaborn**
-- **Pythena**
-- **Boto3**
-
-#### Tools:
-- **AWS** (Athena, SageMaker, S3, QuickSight)
-- **Snowflake**
-- **BigQuery**
-- **Looker**
-- **Google Sheets**
-- **MS Office**
-- **GCP**
-- **Git/GitHub**
-- **PowerBI**
-- **Excel**
-
-#### Concepts:
-- **Statistics**
-- **Artificial Intelligence**
-- **Machine Learning**
+**Programming Languages**: Python • R • C++  
+**Query Languages**: SQL (MySQL, T-SQL, SQLite)  
+**Proficient Libraries**: NumPy • Pandas • Matplotlib • Scikit Learn • Seaborn • Pythena • Boto3  
+**Tools**: AWS (Athena, SageMaker, S3, QuickSight) • Snowflake • BigQuery • Looker • Google Sheets • MS Office • GCP • Git/GitHub • PowerBI • Excel  
+**Concepts**: Statistics • Artificial Intelligence • Machine Learning  
 
 ---
 
