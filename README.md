@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- **Product Data Scientist** at [Cadient](https://cadienttalent.com)
+- **Product Data Scientist** at [Cadient](https://cadienttalent.com), Ex-Swiggy
 - • 🌟 **Tech Speaker** and **Mentor** • 🎓 **MCA in Data Science** (In progress, Expected: June 2026) from **IGNOU**
 - • 🎓 **B.Sc. in Computer Science** (2021) from **University of Delhi**
 
