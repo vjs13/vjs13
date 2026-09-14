@@ -17,13 +17,15 @@
 ### 👨‍💻 About Me
 
 - **Product Data Scientist** at [Cadient](https://cadienttalent.com), Ex-Swiggy
-- • 🌟 **Tech Speaker** and **Mentor** • 🎓 **MCA in Data Science** (In progress, Expected: June 2026) from **IGNOU**
+- • 🌟 **Tech Speaker** and **Mentor** • 🎓 **MCA in Data Science** (In progress, Expected: June 2026) from **IIT Guwahati**
 - • 🎓 **B.Sc. in Computer Science** (2021) from **University of Delhi**
 
 ---
 
 ### 💼 Experience
 
+- **Majid Al Futtaim** (Mar 2026 - Present): Senior Data Scientist, leading data science for Retail.
+- **Bitgo** (Apr 2025 - Oct 2025): Senior Data Scientist and Product manager, leading data science for crypto.
 - **Cadient** (Apr 2024 - Present): Product Data Scientist, leading data science processes for hiring solutions.
 - **Swiggy** (Apr 2023 - Jan 2024): Product Risk Analyst, enhancing platform security through fraud prevention strategies.
 - **Tiger Analytics** (Aug 2022 - Dec 2022): Data Science Analyst.
